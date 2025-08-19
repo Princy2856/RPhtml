@@ -1,0 +1,24 @@
+*{
+    background-color:lightgoldenrodyellow;
+}
+#ul1{
+    color: rgb(219, 155, 65);
+}
+#ul2{
+    color: brown;
+}
+#ul3{
+    color:purple
+}
+#dt1{
+    color:brown
+}
+#ulach{
+    color: rgba(85, 7, 159, 0.811);
+}
+.dt1,.dt2{
+    color: darkgoldenrod;
+}
+.dl1{
+    color: rgb(25, 88, 88);
+}
