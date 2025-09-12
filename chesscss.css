@@ -1,0 +1,181 @@
+.container{
+    border: 2px solid white ; 
+    width: 700;
+    height:800;
+    display: inline-block;
+    margin-left: 300px;
+
+}
+.container1{
+    border: 2px solid pink ; 
+    height: 100px;
+    width: 600;
+    display: flex;
+    
+}
+
+img{
+    /* margin-top: 15px; */
+    margin-left:5px ;
+}
+.ch1{
+    border: 2px solid black ;
+    height: 100px;
+    width: 100px;
+}
+.ch1:nth-child(even){
+    background-color: palevioletred;
+
+}
+.ch1:nth-child(odd){
+    background-color: pink;
+
+}
+.container2{
+    border: 2px solid pink ; 
+    height: 100px;
+    width: 600;
+    display: flex;
+    flex-wrap: wrap;   
+}
+.ch2{
+    border: 2px solid black ;
+    height: 100px;
+    width: 100px;
+    
+}
+.ch2:nth-child(odd){
+    background-color: palevioletred;
+
+}
+.ch2:nth-child(even){
+    background-color: pink;
+
+}
+
+.container3{
+    border: 2px solid pink ; 
+    height: 100px;
+    width: 600;
+    display: flex;
+    flex-wrap: wrap;   
+}
+.ch3{
+    border: 2px solid black ;
+    height: 100px;
+    width: 100px;
+    
+}
+.ch3:nth-child(even){
+    background-color: palevioletred;
+
+}
+.ch3:nth-child(odd){
+    background-color: pink;
+
+}
+.container4{
+    border: 2px solid pink ; 
+    height: 100px;
+    width: 600;
+    display: flex;
+    flex-wrap: wrap;   
+}
+.ch4{
+    border: 2px solid black ;
+    height: 100px;
+    width: 100px;
+    
+}
+.ch4:nth-child(odd){
+    background-color: palevioletred;
+
+}
+.ch4:nth-child(even){
+    background-color: pink;
+
+}
+.container5{
+    border: 2px solid pink ; 
+    height: 100px;
+    width: 600;
+    display: flex;
+    flex-wrap: wrap;   
+}
+.ch5{
+    border: 2px solid black ;
+    height: 100px;
+    width: 100px;  
+}
+.ch5:nth-child(even){
+    background-color: palevioletred;
+
+}
+.ch5:nth-child(odd){
+    background-color: pink;
+
+}
+.container6{
+    border: 2px solid pink ; 
+    height: 100px;
+    width: 600;
+    display: flex;
+    flex-wrap: wrap;   
+}
+.ch6{
+    border: 2px solid black ;
+    height: 100px;
+    width: 100px;
+   
+}
+.ch6:nth-child(odd){
+    background-color: palevioletred;
+
+}
+.ch6:nth-child(even){
+    background-color: pink;
+
+}
+.container7{
+    border: 2px solid pink ; 
+    height: 100px;
+    width: 600;
+    display: flex;
+    flex-wrap: wrap;   
+}
+.ch7{
+    border: 2px solid black ;
+    height: 100px;
+    width: 100px;
+    
+}
+.ch7:nth-child(even){
+    background-color: palevioletred;
+
+}
+.ch7:nth-child(odd){
+    background-color: pink;
+
+}
+.container8{
+    border: 2px solid pink ; 
+    height: 100px;
+    width: 600;
+    display: flex;
+    flex-wrap: wrap; 
+    
+}
+.ch8{
+    border: 2px solid black ;
+    height: 100px;
+    width: 100px;
+  
+}
+.ch8:nth-child(odd){
+    background-color: palevioletred;
+
+}
+.ch8:nth-child(even){
+    background-color: pink;
+
+}
